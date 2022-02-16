@@ -11,5 +11,5 @@ XMidas Documentation
 
    introduction
    installation
-   Loading_Data
+   loading-data
    release-history
