@@ -9,5 +9,7 @@ XMidas Documentation
 .. toctree::
    :maxdepth: 2
 
+   introduction
    installation
+   Loading_Data
    release-history
