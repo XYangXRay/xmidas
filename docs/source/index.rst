@@ -11,5 +11,9 @@ XMidas Documentation
 
    introduction
    installation
+<<<<<<< HEAD
    loading-data
+=======
+   Loading_Data
+>>>>>>> 7ba79d291da55f99f2634d502c79076b587a3d8d
    release-history
